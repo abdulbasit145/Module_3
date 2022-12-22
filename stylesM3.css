@@ -1,0 +1,36 @@
+*{
+    font-family: cursive;
+}
+#navbar-ass{
+    border: 0;
+    border-radius: 0;
+    background-color: rgba(155, 149, 147, 0.264);
+    height: 55px;
+}
+.navbar-header .heading{
+ font-size: 2.5em;
+ font-style: italic;
+ font-weight: bold;
+ color: rgba(0, 0, 0, 0.838);
+}
+#heading{
+    margin: -5px auto 45px auto;
+}
+#nav-list{
+    background-color: rgb(251, 251, 180);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.4em;
+    margin-top: -5px;
+    border: 2px solid black;
+    
+}
+#nav-list li{
+    border: 1px solid black;
+}
+#nav-list a{
+    color: black;
+}
+#nav-list a:hover{
+    background-color: rgb(134, 133, 133);
+}
